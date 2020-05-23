@@ -12,8 +12,8 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
-                color: #636b6f;
+                background-color: #358ccb;
+                color: white;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
                 height: 100vh;
@@ -80,8 +80,9 @@
             @endif
 
             <div class="content">
+                <img src="{{asset('images/laravel-1-logo-png-transparent.png')}}" width="500" style="padding: 25px">
                 <div class="title m-b-md">
-                    Laravel REST API Using JWT Authentication
+                    <strong>How to create custome <br>validation method server side</strong>
                 </div>
             </div>
         </div>

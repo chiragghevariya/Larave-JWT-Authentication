@@ -1,4 +1,5 @@
 <?php
+
 namespace App\Validator;
 use Illuminate\Validation\Validator;
 use Illuminate\Support\Facades\Input;
@@ -6,7 +7,7 @@ use Hash;
 class CustomeValidator extends Validator
 {
 	/**
-	 * [validatecheckEmailExitAdminUser To check user email exit or not]
+	 * [validatecheckEmailExitForUser To check user email exit or not]
 	 * @param  [type] $attribute  [description]
 	 * @param  [type] $value      [description]
 	 * @param  [type] $parameters [description]
