@@ -82,7 +82,7 @@
             <div class="content">
                 <img src="{{asset('images/laravel-1-logo-png-transparent.png')}}" width="500" style="padding: 25px">
                 <div class="title m-b-md">
-                    <strong>How to create custome <br>validation method server side</strong>
+                    <strong>How to create To create REST ful API in custome validation method in laravel-1-logo-png-transparent</strong>
                 </div>
             </div>
         </div>
