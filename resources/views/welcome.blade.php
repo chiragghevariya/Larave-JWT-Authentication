@@ -80,9 +80,11 @@
             @endif
 
             <div class="content">
-                <img src="{{asset('images/laravel-1-logo-png-transparent.png')}}" width="500" style="padding: 25px">
+                <div class="abcd">
+                    <img src="{{asset('images/ypJamzghonxi7JmtXFy.png')}}">
+                </div>
                 <div class="title m-b-md">
-                    <strong>How to create To create REST ful API in custome validation method in laravel-1-logo-png-transparent</strong>
+                    <strong>VueJs with Laravel </br>Login And Register using JWT Authetication</strong>
                 </div>
             </div>
         </div>
